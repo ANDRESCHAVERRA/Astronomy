@@ -4,7 +4,7 @@ Este repositorio contiene una colección de simulaciones y notebooks desarrollad
 
 ## 📂 Proyectos incluidos
 
-- **[01 - Constante de movimiento del sistema solar](./01_Constantes_Movimiento_Sistema_Solar)**: Prueba de que el momento angular es constante.
+- **[01 - Constantes de movimiento del sistema solar](./01_Constantes_Movimiento_Sistema_Solar)**: Prueba de que el momento angular es constante.
 
 ## 🛠️ Tecnologías utilizadas
 - Python 3
