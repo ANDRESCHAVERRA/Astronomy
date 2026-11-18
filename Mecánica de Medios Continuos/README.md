@@ -4,7 +4,7 @@ Este repositorio contiene una colección de simulaciones y notebooks desarrollad
 
 ## 📂 Proyectos incluidos
 
-- **[01 - Termalización de un gas](./01_Termalizacion_Gas)**: Simulación de dinámica molecular (colisiones elásticas) para reproducir la distribución de Maxwell-Boltzmann.
+- **[01 - Termalización de un gas](./01_Termalización_Gas)**: Simulación de dinámica molecular (colisiones elásticas) para reproducir la distribución de Maxwell-Boltzmann.
 
 ## 🛠️ Tecnologías utilizadas
 - Python 3
