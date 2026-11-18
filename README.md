@@ -15,6 +15,3 @@ Este repositorio contiene una colección de simulaciones y notebooks desarrollad
 
 ## 🚀 Cómo usar este repositorio
 Puedes abrir cualquiera de los notebooks directamente en Google Colab haciendo clic en los enlaces dentro de cada carpeta.
-
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TU_REPO/blob/main/01_Termalizacion_Gas/termalizacion_gas.ipynb)
