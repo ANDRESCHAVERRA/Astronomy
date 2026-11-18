@@ -4,7 +4,7 @@ Este repositorio contiene una colección de simulaciones y notebooks desarrollad
 
 ## 📂 Proyectos incluidos
 
-- **[01_Constantes-Movimiento-Sistema-Solar]**: Simulación de dinámica molecular (colisiones elásticas) para reproducir la distribución de Maxwell-Boltzmann.
+- **[01 - Constante de movimiento del sistema solar](./01_Constantes_Movimiento_Sistema_Solar)**: Prueba de que el momento angular es constante.
 
 ## 🛠️ Tecnologías utilizadas
 - Python 3
