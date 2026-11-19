@@ -7,3 +7,5 @@ La cual no se puede resolver de forma analítica, sino por medio llamado "cuadra
 Con lo anterior vamos a llegar que el momento angular se escribe como:
 
 $$ \vec{L} = M \vec{r} \times \dot {\vec{r}}$$
+
+Los detalles estaŕan dentro del Notebook
