@@ -1,12 +1,12 @@
 ## Conservación del momento angular (RESUMEN)
 Para mostrar que el momento angular se conserva, debemos solucionar la siguiente ecuación diferencial parcial: 
 
-$$\ddot{\vec{r}} = -\frac{G(m_1 + m_2)}{r³} \vec{r}$$
+$$\ddot{\vec{r_i}} = - \Sigma_i \mu \frac{ \vec{r_i} }{r³} $$
 
 La cual no se puede resolver de forma analítica, sino por medio llamado "cuadraturas".
 Con lo anterior vamos a llegar que el momento angular se escribe como:
 
-$$ \vec{L} = M \vec{r} \times \dot {\vec{r}}$$
+$$ \vec{L} = \Sigma_i m_i \vec{r_i} \times \dot {\vec{r_i}}$$
 
 Los detalles estaŕan dentro del Notebook
 
