@@ -10,7 +10,7 @@ Este repositorio contiene una colección de simulaciones y notebooks desarrollad
 
 - **[Mecánica de Medios Continuos](./Mecánica_de_Medios_Continuos)**
 
-- - **[Relatividad](./Relatividad)**
+- **[Relatividad](./Relatividad)**
 
 ## 🛠️ Tecnologías utilizadas
 - Python 3
