@@ -8,7 +8,7 @@ Este repositorio contiene una colección de simulaciones y notebooks desarrollad
 
 - **[Mecánica Celeste](./Mecánica_Celeste)**
 
-- **[Mecánica de Medios Contínuos](./Mecánica_de_Medios_Continuos)**
+- **[Mecánica de Medios Continuos](./Mecánica_de_Medios_Continuos)**
 
 - **[Relatividad](./Relatividad)**
 
