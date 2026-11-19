@@ -1,1 +1,0 @@
-Conservación del momento angular
