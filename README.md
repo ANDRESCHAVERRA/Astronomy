@@ -4,9 +4,11 @@ Este repositorio contiene una colección de simulaciones y notebooks desarrollad
 
 ## 📂 Cursos Incluídos
 
-- **[Astronomía de Posición](./Astronomía de Posición)**: Simulación de dinámica molecular (colisiones elásticas) para reproducir la distribución de Maxwell-Boltzmann.
+- **[Astronomía de Posición](./Astronomía_de_Posición)**
 
-- **[Mecánica Celeste](./Mecánica_Celeste)**: Simulación de dinámica molecular (colisiones elásticas) para reproducir la distribución de Maxwell-Boltzmann.
+- **[Mecánica Celeste](./Mecánica_Celeste)**
+
+- - **[Mecánica de Medios Continuos](./Mecánica_de_Medios_Continuos)**
 
 ## 🛠️ Tecnologías utilizadas
 - Python 3
