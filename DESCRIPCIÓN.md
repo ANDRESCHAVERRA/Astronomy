@@ -1,0 +1,19 @@
+# Astronomía
+
+Este repositorio contiene una colección de simulaciones y notebooks desarrollados para algunos cursos de Astronomía.
+
+## 📂 Cursos Incluídos
+
+- **[Astronomía de Posición](./Astronomía_de_Posición)**: Simulación de dinámica molecular (colisiones elásticas) para reproducir la distribución de Maxwell-Boltzmann.
+
+- **[Mecánica Celeste](./Mecánica_Celeste)**: Simulación de dinámica molecular (colisiones elásticas) para reproducir la distribución de Maxwell-Boltzmann.
+
+## 🛠️ Tecnologías utilizadas
+- Python 3
+- NumPy (Cálculos matriciales)
+- Matplotlib (Gráficas estáticas)
+- Plotly (Animaciones interactivas)
+- Pandas (Manejo de datos)
+
+## 🚀 Cómo usar este repositorio
+Puedes abrir cualquiera de los notebooks directamente en Google Colab haciendo clic en los enlaces dentro de cada carpeta.
