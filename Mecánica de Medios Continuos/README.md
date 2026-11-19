@@ -1,4 +1,4 @@
-# 🧪 Mecánica de Medios Contínuos
+# 🧪 Mecánica de Medios Continuos
 
 Este repositorio contiene una colección de simulaciones y notebooks desarrollados para el curso de Mecánica de Medios Continuos.
 
